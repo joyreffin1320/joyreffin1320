@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Joy Reffin
 
-<!--
-**joyreffin1320/joyreffin1320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A **Fresher Flutter Developer** with a passion for building cross-platform mobile apps.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Flutter & Dart
+- Firebase (Auth, Firestore)
+- REST API Integration
+- Git, GitHub
+- UI/UX Design
+
+---
+
+## 💼 My Projects
+
+### 🐄 Dairy E-commerce App
+- App to order milk and dairy products.
+- ✅ Features: Cart, Orders, Checkout
+- 🔗 [GitHub Repo](https://github.com/yourusername/dairy-app)
+
+### 🌦️ Weather App
+- Shows live weather using API.
+- 🔗 [GitHub Repo](https://github.com/yourusername/weather-app)
+
+---
+
+## 📄 Resume
+[📄 Download My Resume](https://your-link.com/resume.pdf)
+
+---
+
+## 📫 Contact
+- 📧 Email: yourmail@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 🌐 GitHub: [github.com/yourusername](https://github.com/yourusername)
